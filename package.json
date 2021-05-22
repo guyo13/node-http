@@ -1,0 +1,25 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Simple http requests based on Node http and https modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyo13/node-http.git"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "promise",
+    "requests"
+  ],
+  "author": "Guy Or",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guyo13/node-http/issues"
+  },
+  "homepage": "https://github.com/guyo13/node-http#readme"
+}
