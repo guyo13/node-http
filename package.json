@@ -1,7 +1,7 @@
 {
-  "name": "node-http",
+  "name": "@guyo13/node-http",
   "version": "1.0.0",
-  "description": "Simple http requests based on Node http and https modules",
+  "description": "Simple http/s requests based on Node http and https modules",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
