@@ -48,7 +48,7 @@ function request(url, method, args, body, headers={}) {
     }
 
     let responseBody = '';
-    const req = proto.request(url, { headers, method }, (res) => {
+    const req = proto.request(urlObj, { headers, method }, (res) => {
       res.on('data', (chunk) => {
         responseBody += chunk;
       });

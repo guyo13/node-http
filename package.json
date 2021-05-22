@@ -1,6 +1,6 @@
 {
   "name": "@guyo13/node-http",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple http/s requests based on Node http and https modules",
   "main": "index.js",
   "scripts": {
